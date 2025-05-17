@@ -64,7 +64,7 @@ version 1.1.0
 
 その他一部コード修正を行いました
 
-version 1.0.0ｰpre release
+version 1.0.0 preｰrelease
 
 ある程度のデバッグが済んだので、glitchとGASを利用した試験運用を開始
 
