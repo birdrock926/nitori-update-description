@@ -1,7 +1,7 @@
 不具合とかはニトリ(@n1t0ri)のDMまでお願いします。
 開発段階なので多少のバグは許してください
 
-使用言語 node.js/discord.js v14
+node.js/discord.js v14
 
 # アップデート履歴
 version 2.2.0
