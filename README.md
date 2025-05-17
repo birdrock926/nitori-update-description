@@ -3,7 +3,7 @@
 
 ソースコードは公開してません。需要があるなら公開するかもしれないです
 
-node.js/discord.js v14
+使用言語:node.js/discord.js v14
 
 実行環境:raspberry pi 3
 
