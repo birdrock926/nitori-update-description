@@ -8,6 +8,11 @@ node.js/discord.js v14
 実行環境:raspberry pi 3
 
 model:GPT 4.1 nano
+
+# 現在修正対応中のバグ
+・検索が必要な場合にもgptのfunction callingがsearch apiを呼び出さない問題
+
+・ユーザーから受信した命令を正しく保存しない問題
 # アップデート履歴
 version 2.2.0
 
