@@ -3,6 +3,8 @@
 
 node.js/discord.js v14
 
+実行環境:raspberry pi 3
+
 # アップデート履歴
 version 2.2.0
 
