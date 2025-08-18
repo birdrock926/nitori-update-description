@@ -16,13 +16,17 @@ node.js/discord.js v14
 
 実行環境:raspberry pi 3
 
-model:GPT 4.1 nano
+model:gpt-5-nano-2025-08-07
 
 # 現在修正対応中のバグ
 ・検索が必要な場合にもgptのfunction callingがsearch apiを呼び出さない問題
 
 ・ユーザーから受信した命令を正しく保存しない問題(本来ならユーザーから与えられた命令は会話履歴保存量の上限を超えて保存するようコーディングしていますが、function callingの判定の問題により一部の命令に対しては機能していないようです)
 # アップデート履歴
+✅️version 2.5.0
+
+(＋)推論モデルをGPT 5 nano(gpt-5-nano-2025-08-07)に変更
+
 ✅️version 2.4.0
 
 (＋)DMに送信されたメッセージに対してもchatgptを用いて返信を行うようになりました
