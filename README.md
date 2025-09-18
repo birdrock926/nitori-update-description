@@ -14,7 +14,7 @@ openaiのapiを叩いて回答を出力してるので、僕の実行環境等�
 
 node.js/discord.js v14
 
-実行環境:raspberry pi 3
+実行環境:ubuntu server
 
 model:gpt-5-nano-2025-08-07
 
